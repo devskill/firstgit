@@ -1,1 +1,3 @@
-aamirWasi asp dot net mvc
+aamirWasi
+asp dot net core mvc
+hello dev
